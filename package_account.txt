@@ -1,1 +1,2 @@
 {"online":1, "bottomNav_show":0, "homeUrl":"http://www.baidu.com"}
+{"online":1, "bottomNav_show":0, "homeUrl":"http://www.baidu.com"}
